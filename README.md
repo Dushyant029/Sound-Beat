@@ -7,5 +7,5 @@ Sound Beat is a music web-template used to create simple tones with 6-style beat
 * CSS
 * JS
 
-## Link:
-
+## Preview:
+https://dushyant029.github.io/Sound-Beat/
